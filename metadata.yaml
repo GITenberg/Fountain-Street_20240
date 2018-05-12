@@ -1,0 +1,30 @@
+_repo: Fountain-Street_20240
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Francoeur, Robert L.
+    gutenberg_agent_id: '37432'
+    url: http://www.gutenberg.org/2009/agents/37432
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Francoeur, Jazno
+    gutenberg_agent_id: '9178'
+    url: http://www.gutenberg.org/2009/agents/9178
+description: ''
+gutenberg_issued: '2007-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20240'
+  lccn: 00190117
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: Fountain Street
+url: http://www.gutenberg.org/ebooks/20240
